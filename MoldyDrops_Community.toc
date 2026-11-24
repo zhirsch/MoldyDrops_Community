@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: |cffa335eeMoldy|rDrops - Community data
+## Notes: Data source for MoldyDrops: loot recorded by MoldyDrops players, combined on the MoldyDrops website. /drops import loads a newer snapshot.
+## Version: @project-version@
+## X-License: GPL-3.0-or-later
+## Dependencies: MoldyDrops
+## SavedVariables: MoldyDropsCommunityDB
+
+Snapshot.lua
+Community.lua

@@ -1,0 +1,7 @@
+# BigWigs packager (https://github.com/BigWigsMods/packager): builds
+# MoldyDrops_Community-<version>.zip. Run by .github/workflows/release.yml when a tag is pushed.
+package-as: MoldyDrops_Community
+
+ignore:
+  - tools
+  - README.md

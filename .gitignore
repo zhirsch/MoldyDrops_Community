@@ -1,0 +1,4 @@
+# BigWigs packager output when run locally
+.release/
+# snapshot strings saved for tools/Update-Snapshot.ps1
+snapshot*.txt

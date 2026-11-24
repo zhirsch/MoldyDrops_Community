@@ -1,0 +1,3 @@
+# Lua and the snapshot keep LF line endings, like the MoldyDrops repo.
+*.lua text eol=lf
+*.toc text eol=lf
